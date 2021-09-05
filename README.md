@@ -8,12 +8,12 @@ on the terminal
 * [Technologies](#Mode)
 * [HowtoPlay](#How-to-Play)
 
-### Features
+## Features
 - Keeps track of O player and X player score
 - can ctrl+c out of most inputs nicely
 - alternating start player
-- 
-## Need to do:
+
+### Need to do:
 - [ ] potentially add socket capabilities for multiplayer play?
 - [ ] Custom player name
 - [ ] Custom Player symbol
