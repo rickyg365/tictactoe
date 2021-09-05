@@ -38,13 +38,13 @@ Choose spot: to select a square, input the number of the corresponding square
 ## Setup:
 ```python
 
-This game depends on console clear function
+''' This game depends on console clear function '''
 
-# Windows: cls
+# Windows
 def clear_screen(): 
     os.system('cls')
 
-# Linux: clear
+# Linux
 def clear_screen(): 
     os.system('clear')
 
