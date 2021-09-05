@@ -21,12 +21,14 @@ Score:
 Choose spot: 
 ```
 
-to select a square, | 1 | 2 | 3 |
+| 1 | 2 | 3 |
 | --- | --- | ---|
-input the number of | 4 | 5 | 6 |
-the corresponding square | 7 | 8 | 9 |
+| 4 | 5 | 6 |
+| 7 | 8 | 9 |
 
-  
+ to select a square,
+ input the number of
+ the corresponding square
 
 
 ## Features
