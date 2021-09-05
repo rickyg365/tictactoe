@@ -4,7 +4,7 @@ Built using python and unicode!
 * [How to Play](#How-to-Play)
 * [Features](#Features)
 * [Coming Soon](#Coming-Soon)
-* [Technologies](#Mode)
+* [Setup](#Setup)
 
 
 ## How to Play
@@ -33,5 +33,25 @@ Choose spot: to select a square, input the number of the corresponding square
 - [ ] Custom player name
 - [ ] Custom Player symbol
 - [ ] Game Over screen
+
+
+## Setup:
+```python
+
+This game depends on console clear function
+
+# Windows: cls
+def clear_screen(): 
+    os.system('cls')
+
+# Linux: clear
+def clear_screen(): 
+    os.system('clear')
+
+# no clear
+def clear_screen(): 
+    return
+
+```
 
 
