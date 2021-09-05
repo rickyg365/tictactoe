@@ -1,5 +1,8 @@
 # Tic Tac Toe - on the terminal
 Built using python and unicode!
+
+<br>
+
 ## Table of contents
 * [How to Play](#How-to-Play)
 * [Features](#Features)
