@@ -1,10 +1,11 @@
 # Tic Tac Toe - on the terminal
-- on the terminal
 
 ## Table of contents
+* [How to Play](#How-to-Play)
 * [Features](#Features)
+* [Coming Soon](#Coming-Soon)
 * [Technologies](#Mode)
-* [HowtoPlay](#How-to-Play)
+
 
 ## How to Play
 
