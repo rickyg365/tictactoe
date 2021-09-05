@@ -8,18 +8,6 @@ on the terminal
 * [Technologies](#Mode)
 * [HowtoPlay](#How-to-Play)
 
-## Features
-- Keeps track of O player and X player score
-- can ctrl+c out of most inputs nicely
-- alternating start player
-
-### Need to do:
-- [ ] potentially add socket capabilities for multiplayer play?
-- [ ] Custom player name
-- [ ] Custom Player symbol
-- [ ] Game Over screen
-
-
 ### How to Play
 
 to select a square input the number in the corresponding square
@@ -28,6 +16,17 @@ to select a square input the number in the corresponding square
 | --- | --- | ---|
 | 4 | 5 | 6 |
 | 7 | 8 | 9 |
+
+## Features
+- Keeps track of O player and X player score
+- can ctrl+c out of most inputs nicely
+- alternating start player
+
+### Coming Soon:
+- [ ] potentially add socket capabilities for multiplayer play?
+- [ ] Custom player name
+- [ ] Custom Player symbol
+- [ ] Game Over screen
 
 
 ## Auto Hot Key
