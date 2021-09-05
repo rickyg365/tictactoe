@@ -29,9 +29,9 @@ Choose spot: to select a square, input the number of the corresponding square
 - can ctrl+c out of most inputs nicely
 
 ## Coming Soon:
-- [ ] potentially add socket capabilities for multiplayer play?
 - [ ] Custom player name
 - [ ] Custom Player symbol
+- [ ] Add automatic platform detector for clear_screen 
 - [ ] Game Over screen
 
 
