@@ -10,10 +10,11 @@ on the terminal
 
 
 ### Mode
-| **Options** | **Description** | 
-| :-----------: | :-----------: |
-| `start` | Start up league and get into champion select |
-| `monitor` | Wait for trigger notification then start |
+| 1 | 2 | 3 |
+| --- | --- | ---|
+| 4 | 5 | 6 |
+| 7 | 8 | 9 |
+
 
 ### Game Mode
 | **Options** | **Description** |
