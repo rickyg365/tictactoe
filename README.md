@@ -4,12 +4,23 @@ on the terminal
 
 
 ## Table of contents
-* [General info](#Game-Mode)
+* [Features](#Features)
 * [Technologies](#Mode)
-* [Setup](#Auto-Hot-Key)
+* [HowtoPlay](#How-to-Play)
+
+### Features
+- Keeps track of O player and X player score
+- can ctrl+c out of most inputs nicely
+- alternating start player
+- 
+## Need to do:
+- [ ] potentially add socket capabilities for multiplayer play?
+- [ ] Custom player name
+- [ ] Custom Player symbol
+- [ ] Game Over screen
 
 
-### Choosing Input
+### How to Play
 
 to select a square input the number in the corresponding square
 
@@ -19,25 +30,9 @@ to select a square input the number in the corresponding square
 | 7 | 8 | 9 |
 
 
-### Game Mode
-| **Options** | **Description** |
-| :-----------: | :-----------: |
-| `summoners` | Summoner's Rift |
-| `aram` | Howling Abyss |
-| `tft` | Team Fight Tactics |
-
-### Queue Timer
-| **Options** | **Description** |
-| :-----------: | :---: |
-| `x` min | Time in minutes |
-
 ## Auto Hot Key
     Using autohotkey, you can create a script that allows you to trigger our program w/ a selected key combination. 
     By having this script in the start up folder we can execute the keyboard combination to launch our script conveniently.
 
-## Need to do:
-- [ ] Update to win32 module instead of pyautogui
-- [ ] Fix after game
-- [ ] Add other notification settings
-- [ ] Add win10toast
+
 
