@@ -27,7 +27,7 @@ Choose spot:
 ## Features
 - Keeps track of O player and X player score
 - can ctrl+c out of most inputs nicely
-- alternating start player
+- alternates start player
 
 ### Coming Soon:
 - [ ] potentially add socket capabilities for multiplayer play?
