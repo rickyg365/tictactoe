@@ -1,5 +1,5 @@
-# Tic Tac Toe - on the terminal
-Built using python and unicode!
+# Tic Tac Toe
+On the terminal. Built using python and unicode!
 
 <br>
 
