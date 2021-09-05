@@ -36,6 +36,7 @@ Choose spot: to select a square, input the number of the corresponding square
 - [ ] Custom Player symbol
 - [ ] Add automatic platform detector for clear_screen 
 - [ ] Game Over screen
+- [ ] potentially add socket capabilities for multiplayer play?
 
 
 ## Setup:
