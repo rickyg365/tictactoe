@@ -3,7 +3,7 @@ On the terminal. Built using python and unicode!
 
 <br>
 
-## Table of contents
+## Table of Contents
 * [How to Play](#How-to-Play)
 * [Features](#Features)
 * [Coming Soon](#Coming-Soon)
