@@ -7,39 +7,7 @@ Date: 09/01/21
 """
 
 
-# Variables
-"""
-
-       0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F
-U+250x ─  ━  │  ┃  ┄  ┅
-U+251x
-U+252x
-U+253x
-U+254x
-U+255x
-U+256x
-U+257x
-
-
- 123456789AB 
- ........... 
-    ┃   ┃    - 1
- ━━━╋━━━╋━━━ - 2
-    ┃   ┃    - 3
- ━━━╋━━━╋━━━ - 4
-    ┃   ┃    - 5
-     
-     
-u254B: ╋
-u2501: ━
-u2503: ┃
-     
-row1 = f"{data[0]:^3}{unicode_col}{data[0]:^3}{unicode_col}{data[0]:^3}"
-row2 = '\u2501\u2501\u2501\u254B\u2501\u2501\u2501\u254B\u2501\u2501\u2501'
-
-"""
-
-
+# Functions
 def clear_screen():
     os.system('cls')
 
@@ -316,30 +284,6 @@ Choose spot [ current-player ]: (input-number)
 
 
 if __name__ == "__main__":
-    # list_uni_char = []
-    # for i in range(8):
-    #     base = f'25{i}'
-    #     for j in range(16):
-    #         text = f"{j}"
-    #         if j >= 10:
-    #             ch_map = {
-    #                 10: 'A',
-    #                 11: 'B',
-    #                 12: 'C',
-    #                 13: 'D',
-    #                 14: 'E',
-    #                 15: 'F'
-    #             }
-    #             text = ch_map.get(j)
-    #         new_base = base + text
-    #
-    #         # print(f"\\u{new_base}")
-    #         list_uni_char.append(f"\\u{new_base}".encode())
-    #
-    # # print(list_uni_char)
-    # for ele in list_uni_char:
-    #     print(ele, ele.decode("unicode-escape")*3)
-
     new_game = TicTacToe()
 
     new_game.run_game()
