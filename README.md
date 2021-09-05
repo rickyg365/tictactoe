@@ -35,9 +35,3 @@ Choose spot: to select a square, input the number of the corresponding square
 - [ ] Game Over screen
 
 
-## Auto Hot Key
-    Using autohotkey, you can create a script that allows you to trigger our program w/ a selected key combination. 
-    By having this script in the start up folder we can execute the keyboard combination to launch our script conveniently.
-
-
-
