@@ -22,13 +22,13 @@ Score:
 Choose spot: 
 ```
 
- to select a square, input the number of the corresponding square
+    to select a square, input the number of the corresponding square
 
 
 ## Features
-- Keeps track of O player and X player score
-- can ctrl+c out of most inputs nicely
+- Keeps track of player score
 - alternates start player
+- can ctrl+c out of most inputs nicely
 
 ## Coming Soon:
 - [ ] potentially add socket capabilities for multiplayer play?
