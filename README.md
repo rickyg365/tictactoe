@@ -8,7 +8,7 @@ on the terminal
 * [Technologies](#Mode)
 * [HowtoPlay](#How-to-Play)
 
-### How to Play
+## How to Play
 
 to select a square input the number in the corresponding square
 
