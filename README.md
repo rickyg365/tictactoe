@@ -1,6 +1,4 @@
-# Tic Tac Toe
-
-on the terminal
+# Tic Tac Toe - on the terminal
 
 
 ## Table of contents
