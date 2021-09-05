@@ -9,7 +9,10 @@ on the terminal
 * [Setup](#Auto-Hot-Key)
 
 
-### Mode
+### Choosing Input
+
+to select a square input the number in the corresponding square
+
 | 1 | 2 | 3 |
 | --- | --- | ---|
 | 4 | 5 | 6 |
