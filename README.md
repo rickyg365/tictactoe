@@ -1,5 +1,5 @@
 # Tic Tac Toe - on the terminal
-
+- on the terminal
 
 ## Table of contents
 * [Features](#Features)
@@ -29,7 +29,7 @@ Choose spot:
 - can ctrl+c out of most inputs nicely
 - alternates start player
 
-### Coming Soon:
+## Coming Soon:
 - [ ] potentially add socket capabilities for multiplayer play?
 - [ ] Custom player name
 - [ ] Custom Player symbol
