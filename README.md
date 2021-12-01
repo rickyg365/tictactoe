@@ -32,30 +32,10 @@ Choose spot: to select a square, input the number of the corresponding square
 - can ctrl+c out of most inputs nicely
 
 ## Coming Soon:
+- [ ] Working score display
 - [ ] Custom player name
 - [ ] Custom Player symbol
 - [ ] Add automatic platform detector for clear_screen 
 - [ ] Game Over screen
 - [ ] potentially add socket capabilities for multiplayer play?
-
-
-## Setup:
-```python
-
-''' This game depends on console clear function '''
-
-# Windows
-def clear_screen(): 
-    os.system('cls')
-
-# Linux
-def clear_screen(): 
-    os.system('clear')
-
-# no clear
-def clear_screen(): 
-    return
-
-```
-
 
