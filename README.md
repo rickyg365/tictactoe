@@ -22,7 +22,7 @@ Score:
 ━━━╋━━━╋━━━
  7 ┃ 8 ┃ 9 
 
-Choose spot: to select a square, input the number of the corresponding square
+Choose spot: => input the number of the corresponding square to select a square.
 ```
 
 
