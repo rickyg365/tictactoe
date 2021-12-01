@@ -1,4 +1,5 @@
 import os
+import sys
 
 """
 Program: Tic Tac Toe
@@ -9,7 +10,12 @@ Date: 09/01/21
 
 # Functions
 def clear_screen():
-    os.system('cls')
+    clear_command = "clear"
+
+    if sys.platform == "win32":
+        clear_command = "cls"
+
+    os.system(clear_command)
 
 
 # Classes
